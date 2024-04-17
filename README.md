@@ -7,7 +7,7 @@ Blog GenAI is an AI-powered blog generator built with Django. It generates blog 
 ## Features
 
 - Generate blog posts from YouTube links.
-- Utilize the AssemblyAI API for natural language processing and content extraction.
+- Utilize the AssemblyAI API and OpenAI API for natural language processing and content extraction.
 - Extract key information such as video title and description.
 
 ## Installation
